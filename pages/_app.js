@@ -19,13 +19,3 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
-
-
-{/* 
-     
-      <ChakraProvider>
-        <Layout>
-          <Component {...pageProps} />
-        </Layout>
-      </ChakraProvider>
-    */}
